@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: ls -a via OPEN SSH Private Key
-        uses: tarunjangra/ssh-action@master
+        uses: tarunjangra/ssh-remote-cmd@master
         with:
           command: |
             cd /tmp
