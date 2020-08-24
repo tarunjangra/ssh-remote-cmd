@@ -1,4 +1,4 @@
-name: 'SSH remote commands'
+name: 'SSH remote command executer'
 description: 'To run ssh remote commands'
 author: 'tarun.jangra@abcdevops.com'
 inputs:
