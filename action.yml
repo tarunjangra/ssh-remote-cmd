@@ -1,5 +1,5 @@
-name: 'Remote SSH Commands'
-description: 'Run remote ssh commands'
+name: 'SSH remote commands'
+description: 'To run ssh remote commands'
 author: 'tarun.jangra@abcdevops.com'
 inputs:
   command:
